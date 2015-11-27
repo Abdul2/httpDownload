@@ -25,6 +25,7 @@
       <root url="file://$PROJECT_DIR$/../../stretchr/gomniauth/.git" />
       <root url="file://$PROJECT_DIR$/../BoTs/.git" />
       <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/.git" />
       <root url="file://$PROJECT_DIR$/../../stretchr/codecs/.git" />
       <root url="file://$PROJECT_DIR$/../../tools/godep/Godeps/_workspace" />
       <root url="file://$PROJECT_DIR$/../../julienschmidt/httprouter/.git" />
