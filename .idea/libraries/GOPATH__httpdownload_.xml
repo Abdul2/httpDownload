@@ -1,0 +1,50 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;httpdownload&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../labix.org" />
+      <root url="file://$PROJECT_DIR$/../../../../bin/src/mamul" />
+      <root url="file://$PROJECT_DIR$/../../../../bin/src/download" />
+      <root url="file://$PROJECT_DIR$/../../../../bin/src/BoTs" />
+      <root url="file://$PROJECT_DIR$/../../../../bin/src/godep" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../../bin/src/outyet" />
+      <root url="file://$PROJECT_DIR$/../../../code.google.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../../ugorji/go/.git" />
+      <root url="file://$PROJECT_DIR$/../../stretchr/signature/.git" />
+      <root url="file://$PROJECT_DIR$/../old_mamul/.git" />
+      <root url="file://$PROJECT_DIR$/../httpDownload/.git" />
+      <root url="file://$PROJECT_DIR$/../BoTs/.idea" />
+      <root url="file://$PROJECT_DIR$/../old_mamul/.idea" />
+      <root url="file://$PROJECT_DIR$/../../stretchr/tracer/.git" />
+      <root url="file://$PROJECT_DIR$/../../tools/godep/.git" />
+      <root url="file://$PROJECT_DIR$/../authorisation/.idea" />
+      <root url="file://$PROJECT_DIR$/../../stretchr/gomniauth/.git" />
+      <root url="file://$PROJECT_DIR$/../BoTs/.git" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../../stretchr/codecs/.git" />
+      <root url="file://$PROJECT_DIR$/../../tools/godep/Godeps/_workspace" />
+      <root url="file://$PROJECT_DIR$/../../julienschmidt/httprouter/.git" />
+      <root url="file://$PROJECT_DIR$/../httpDownload/.idea" />
+      <root url="file://$PROJECT_DIR$/../../../labix.org/v2/mgo/.bzr" />
+      <root url="file://$PROJECT_DIR$/../mamul/Godeps/_workspace" />
+      <root url="file://$PROJECT_DIR$/../mamul/.idea" />
+      <root url="file://$PROJECT_DIR$/../../golang/example/.git" />
+      <root url="file://$PROJECT_DIR$/.idea" />
+      <root url="file://$PROJECT_DIR$/../../stretchr/objx/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../BoTs/testdata" />
+      <root url="file://$PROJECT_DIR$/../../golang/example/outyet/.idea" />
+      <root url="file://$PROJECT_DIR$/../../gorilla/mux/.git" />
+      <root url="file://$PROJECT_DIR$/../../gorilla/context/.git" />
+      <root url="file://$PROJECT_DIR$/../fileserver/.git" />
+      <root url="file://$PROJECT_DIR$/../mamul/.git" />
+      <root url="file://$PROJECT_DIR$/../fileserver/.idea" />
+      <root url="file://$PROJECT_DIR$/../../stretchr/stew/.git" />
+      <root url="file://$PROJECT_DIR$/../../clbanning/x2j/.git" />
+    </excluded>
+  </library>
+</component>
